@@ -1,4 +1,4 @@
-var=(age)
+var=(13,14,15,16,17,18,19)
 
 function basicTeenager(age){(if (age)<=13)
 (else if (age)>=19)
