@@ -1,6 +1,6 @@
 function basicTeenager(age)
 {if (age)<=19}
-{else if (age) >=13}
+{else (age) >=13}
 }
 
 
